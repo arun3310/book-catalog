@@ -4,6 +4,7 @@ A simple CRUD API built with Node.js, Express, and MongoDB to manage a catalog o
 📁 Project Structure
 
 book-catalog/
+
 ├── controllers/ # Request handlers
 
 ├── models/ # Mongoose schema
